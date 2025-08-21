@@ -12,7 +12,7 @@ public class VolOfEarth {
 
         double volumeMi3 = (4.0 / 3.0) * 3.14*radiusMiles*radiusMiles*radiusMiles;
 
-        System.out.println("The volume of Earth in cubic kilometers is " + String.format("%.2f", volumeKm3)+"and in miles is "+ String.format("%.2f", volumeMi3));
+        System.out.println("The volume of Earth in cubic kilometers is " + String.format("%.2f", volumeKm3)+" and in miles is "+ String.format("%.2f", volumeMi3));
     
 
     }
